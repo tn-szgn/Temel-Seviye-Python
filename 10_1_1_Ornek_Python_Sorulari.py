@@ -25,7 +25,7 @@ print(not (5 > 3)) #8) Sonucu nedir?
 #Cevap: False çıktısı alınır çünkü "5 > 3" ifadesi doğrudur.
 
 #9) Aşağıdakilerden hangisi geçerli değişken ismidir?
-# 2sayi = 10, sayi_2 = 10, sayi adi = 10, and = 10
+#2sayi = 10, sayi_2 = 10, sayi adi = 10, and = 10
 
 #Cevap: "sayi_2" ifadesi değişken geçerli değişken ismidir çünkü:
 #Değişken isimleri sayı ile başlayamaz.
