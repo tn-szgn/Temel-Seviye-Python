@@ -1,4 +1,4 @@
-#10. Sınıf 1. Dönem 1. Yazılı Örnek Soruları
+#Bilişim Dersi 10. Sınıf 1. Dönem 1. Yazılı Örnek Soruları
 
 print(type(12.5)) #1) Hangi veri türünü verir?
 #Cevap: float
